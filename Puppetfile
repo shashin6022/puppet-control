@@ -29,9 +29,9 @@ mod 'ntp',
 
 mod 'role',
   :git => 'https://github.com/shashin6022/puppet-role.git',
-  :ref => 'development'
+  :ref => 'master'
 
 mod 'profile',
   :git => 'https://github.com/shashin6022/puppet-profile.git',
-  :ref => 'development'
+  :ref => 'master'
 
