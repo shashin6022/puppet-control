@@ -1,0 +1,5 @@
+---
+profile::base::ntp_servers: 
+ - kariballa
+ - kariballa_1
+profile::apache::default_vhost: false

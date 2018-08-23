@@ -1,0 +1,11 @@
+---
+profile::apache::apache_vhost_servers: {
+  'shashiudawa5.mylabserver.com': {
+    port: 80,
+    docroot: '/var/www/shashiudawa5'
+  },
+  'shashiudawa5b.mylabserver.com': {
+    port: 80,
+    docroot: '/var/www/shashiudawa5b'
+  }
+}
